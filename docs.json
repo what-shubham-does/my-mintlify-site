@@ -1,0 +1,25 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Documentation",
+  "colors": {
+    "primary": "#0D9373"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Getting Started",
+        "icon": "rocket",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "icertis-overview",
+              "ai-overview"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
